@@ -10,6 +10,11 @@ The dataset used in this project is the E-commerce Customer Service Satisfaction
 To view the automated EDA process, check out the Colab notebook:
 [Auto EDA Colab Notebook](https://colab.research.google.com/drive/1OjejEJhtac8am_2s8dvz5yGmFE4I5tYM?usp=sharing)
 
+
+## Video Demo
+[[Video Demo URL](https://drive.google.com/file/d/1Nu_tHVFhIy-wakY5CRyUJp6VY5ZOIsXc/view?usp=sharing)]
+
+
 ## Automated EDA Tools
 
 ### Sweetviz
@@ -19,8 +24,5 @@ This project utilizes Sweetviz, an open-source Python library that generates bea
 In addition to Sweetviz, this project employs other profiling techniques - Pandas Profiler to provide comprehensive insights into the dataset. These profiling tools help in understanding the structure, content, and relationships within the data, making it easier to identify patterns, anomalies, and potential areas for further investigation.
 
 The combination of Sweetviz and Pandas profiler offers a robust and efficient approach to automated EDA, allowing for quick and thorough exploration of the e-commerce customer service satisfaction data.
-
-## Video Demo
-[Insert video demo link here when available]
 
 Explore the dataset, run the Colab notebook, and watch the video demo to learn more about automated EDA techniques, including Sweetviz and profiling, applied to e-commerce customer service satisfaction data.
