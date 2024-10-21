@@ -2,6 +2,8 @@
 
 This repository contains three main projects focusing on different aspects of data analysis and processing:
 
+Video Demo available in sub folder README.md files
+
 ## 1. EDA and D3.js
 
 Located in: `Part 1) - EDA AND D3JS/`
